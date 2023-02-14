@@ -1,4 +1,6 @@
-   {
+{
+    "userList": [
+      {
         "id": 1,
         "username":"MCNC",
         "email": "admin@mcnc.co.kr",
@@ -70,3 +72,5 @@
         "token":"ekjnajdbawdujnakdljakjlbdlkbhawdblkhadadawdawdaww",
         "role":"Developer"
       }
+    ]
+  }
