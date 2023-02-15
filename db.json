@@ -1,22 +1,18 @@
 {
-    "userList": [
-      {
-        "id": 1,
-        "username":"MCNC",
-        "email": "admin@mcnc.co.kr",
-        "password": "admin",
-        "token":"ekjnajdbawdujnakdljakjlbdlkbhawdblkhadw",
-        "role":"Admin",
-        "isLogin":true
-      },
-      {
-        "id": 2,
-        "username":"Emsamsovichea Vong",
-        "email": "vongemsamsovichea@mcnc.co.kr",
-        "password": "123456",
-        "token":"ekjnajdbawdujnakdljakjlbdlkbhawdblkhadadawdawdaww",
-        "role":"Developer",
-        "isLogin":false
-      }
-    ]
+  "customer_info": {
+    "name": "CHANTHOU OEURN",
+    "user_id": "mrthou",
+    "auth_code": "(CAMBODIA)0965314142",
+    "main_transfer_acc": "2-120-00000540-8",
+    "other_withdrawal_acc": "2-120-00000099-2",
+    "monthly_fee_withdrawal_acc": "2-120-00000099-2",
+    "recipient_acc_info": "មិនមាន/Not Registered",
+    "transfer_approval_hour": "24 hrs (Monday - Sunday)",
+    "transfer_right": "អនុញ្ញាត / Allow",
+    "per_transaction": "USD 5,000.00",
+    "per_transaction_khr": "KHR 20,000,000.00 ",
+    "per_day": "USD 60,000.00",
+    "per_day_khr": "KHR 240,000,000",
+    "reciept_timestamp": "500117 MCNC Rethy Sen 25/01/2023 03:19:03 PM"
   }
+}
