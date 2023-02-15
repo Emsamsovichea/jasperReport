@@ -1,24 +1,6 @@
 {
     "userList": [
       {
-        "id": 5,
-        "username":"MCNC",
-        "email": "admin@mcnc.co.krdawdawd",
-        "password": "admin",
-        "token":"ekjnajdbawdujnakdljakjlbdlkbhawdblkhadw",
-        "role":"Admin",
-        "isLogin":false
-      },
-      {
-        "id": 52213213123,
-        "username":"MCNCadawdada",
-        "email": "admin@mcnc.co.krdawdawd",
-        "password": "admin",
-        "token":"ekjnajdbawdujnakdljakjlbdlkbhawdblkhadw",
-        "role":"Admin",
-        "isLogin":false
-      },
-      {
         "id": 1,
         "username":"MCNC",
         "email": "admin@mcnc.co.kr",
@@ -33,26 +15,8 @@
         "email": "vongemsamsovichea@mcnc.co.kr",
         "password": "123456",
         "token":"ekjnajdbawdujnakdljakjlbdlkbhawdblkhadadawdawdaww",
-        "role":"Admin",
-        "isLogin":true
-      },
-      {
-        "id": 3,
-        "username":"Emsamsovichea Vong",
-        "email": "vongemsamsovichea@mcnc.co.kr",
-        "password": "123456",
-        "token":"ekjnajdbawdujnakdljakjlbdlkbhawdblkhadadawdawdaww",
-        "role":"Admin",
+        "role":"Developer",
         "isLogin":false
-      },
-      {
-        "id": 23,
-        "username":"Emsamsovichea Vong",
-        "email": "vongemsamsovichea@mcnc.co.kr",
-        "password": "123456",
-        "token":"ekjnajdbawdujnakdljakjlbdlkbhawdblkhadadawdawdaww",
-        "role":"Admin",
-        "isLogin":false
-      },
+      }
     ]
   }
